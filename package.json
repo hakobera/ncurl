@@ -1,0 +1,19 @@
+{
+  "name": "ncurl",
+  "version": "0.1.0",
+  "description": "Simple cURL clone",
+  "main": "ncurl",
+  "bin": { "ncurl": "./bin/ncurl" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hakobera/ncurl.git"
+  },
+  "keywords": [
+    "curl"
+  ],
+  "author": "Kazuyuki Honda <hakobera@gmail.com>",
+  "license": "The MIT License"
+}
